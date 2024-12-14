@@ -4,9 +4,8 @@
 ... gl(r)ow
 
 提出用プロダクトファイルURL
-
-https://drive.google.com/drive/folders/1gQAQFwByajfFbdsTmhen5SgUf3YKcMUY
-Doragon.zip
+...https://drive.google.com/drive/folders/1gQAQFwByajfFbdsTmhen5SgUf3YKcMUY
+...Doragon.zip
 
 コンセプト  
 ... 竜騎兵×フラッシュ
@@ -19,7 +18,7 @@ Doragon.zip
 ...  ゲームを遊んでくれるすべての世代
 
 利用の流れ  
-...  
+...  Unityでビルドしたゲームを遊ぶ
 
 推しポイント  
 ...  ・マップとパズルが自動生成なので何度プレイしても飽きない。
@@ -51,6 +50,6 @@ Doragon.zip
 ...  C#、processing
 
 利用したフレームワーク・ライブラリ  
-...  Unity
+...  Unity、DOTween、URP
 その他開発に使用したツール・サービス
 ...  ChatGPT、123rf
